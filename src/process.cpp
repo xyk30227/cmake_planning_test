@@ -1,5 +1,6 @@
 #include "process.h"
-#include <iostream>
+#include<iostream>
+
 void Process::planProcess()
 {
     std::cout << "planProcess begin" << std::endl;
